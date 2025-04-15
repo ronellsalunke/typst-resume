@@ -64,7 +64,7 @@
   title: "Public Relations/Android Engineer",
   location: "USA (Remote)",
   company: "Projekt (PRJKT) Development LLC",
-  dates: dates-helper(start-date: "June 2020", end-date: "May 2023"),
+  dates: dates-helper(start-date: "August 2019", end-date: "February 2021"),
 )
 - Worked on bug fixes and maintenance work across PRJKT's app portfolio
 - Nurtured client relationships, ensuring customer satisfaction
@@ -94,15 +94,15 @@
 - *Languages:* Python, Java/Kotlin, C/C++, HTML, JavaScript
 - *Frameworks:* Android SDK, Flutter, Hadoop, Flask, FastAPI, Bootstrap
 - *Databases:* Relational (MySQL, SQLite), NoSQL (MongoDB)
-- *Data Science and ML:* SciKit Learn, Tensorflow, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- *Data Science and ML:* SciKit Learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
 - *DevOps and Misc. Tools:* Git, Docker, Kubernetes, Swagger, Linux, Jenkins
 
 
 == Projects
 - *FlutterDex (Flutter):* Flutter client for PokeApi, follows MVVM architecture and Provider for state management (#link("https://github.com/ronellsalunke/flutter_pokedex")[GitHub])
 - *Deepfake Detection API (FastAPI, Docker):* Wrapped a deepfake detection model with FastAPI and Dockerized for easy deployment, created a basic frontend using HTML (#link("https://github.com/ronellsalunke/deepfake-detection-api")[GitHub])
-- *LinkTile (Android SDK):* Wear OS tile app to display my LinkedIn profile as a QR code for easy sharing (#link("https://github.com/ronellsalunke/LinkTile")[GitHub])
-- *Image Classification Autoencoder (Tensorflow):* Denoising autoencoder for MNIST digit classification (#link("https://github.com/ronellsalunke/autoencoder-mnist")[GitHub])
+- *LinkTile (Android SDK):* Tiny (230kb) Wear OS tile app displaying my LinkedIn profile as a QR code for easy sharing (#link("https://github.com/ronellsalunke/LinkTile")[GitHub])
+- *Image Classification Autoencoder (TensorFlow):* Denoising autoencoder for MNIST digit classification (#link("https://github.com/ronellsalunke/autoencoder-mnist")[GitHub])
 - *Titanic-BigData (Pandas, Hadoop):* Dataset analysis, performed various map-reduce operations (#link("https://github.com/ronellsalunke/Titanic-BigData")[GitHub])
 - *Emergency Hotline Visualizations (Pandas, Matplotlib, Seaborn)* Analysed 911 emergency calls data, displaying various visualisations (#link("https://github.com/ronellsalunke/emergency_hotline_visualizations")[GitHub])
 - *Invisibility Cloak (Python, OpenCV)* Masking cloak that uses the on-device webcam for live input (#link("https://github.com/ronellsalunke/invisibility-cloak")[GitHub])
@@ -111,7 +111,7 @@
 
 == Publications
 - Prediction Model for Stock using Machine Learning Algorithm  (#link("https://ieeexplore.ieee.org/abstract/document/10270808")[Link])
-- CBF-NLP based Hybrid Model for Movie Recommendation System (#link("https://ieeexplore.ieee.org/abstract/document/10270808")[Link])
+- CBF-NLP based Hybrid Model for Movie Recommendation System (#link("https://link.springer.com/chapter/10.1007/978-981-97-8096-9_21")[Link])
 
 == Certifications
 #certificates(
