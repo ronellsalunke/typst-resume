@@ -67,7 +67,7 @@
   dates: dates-helper(start-date: "August 2019", end-date: "February 2021"),
 )
 - Worked on bug fixes and maintenance work across PRJKT's app portfolio
-- Nurtured client relationships, ensuring customer satisfaction
+- Nurtured client and customer relationships, gathering product feedback
 
 
 == Education
@@ -76,7 +76,6 @@
   location: "Pune, India",
   dates: dates-helper(start-date: "June 2022", end-date: "April 2024"),
   degree: "MSc. Computer Applications (Data Science) - CGPA 8.3/10",
-
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   consistent: true
 )
@@ -104,14 +103,15 @@
 - *LinkTile (Android SDK):* Tiny (230kb) Wear OS tile app displaying my LinkedIn profile as a QR code for easy sharing (#link("https://github.com/ronellsalunke/LinkTile")[GitHub])
 - *Image Classification Autoencoder (TensorFlow):* Denoising autoencoder for MNIST digit classification (#link("https://github.com/ronellsalunke/autoencoder-mnist")[GitHub])
 - *Titanic-BigData (Pandas, Hadoop):* Dataset analysis, performed various map-reduce operations (#link("https://github.com/ronellsalunke/Titanic-BigData")[GitHub])
-- *Emergency Hotline Visualizations (Pandas, Matplotlib, Seaborn)* Analysed 911 emergency calls data, displaying various visualisations (#link("https://github.com/ronellsalunke/emergency_hotline_visualizations")[GitHub])
-- *Invisibility Cloak (Python, OpenCV)* Masking cloak that uses the on-device webcam for live input (#link("https://github.com/ronellsalunke/invisibility-cloak")[GitHub])
-- *Golang Webserver (Golang, HTML):* Simple HTTP server built with Go for serving static pages (#link("https://github.com/ronellsalunke/golang-webserver")[GitHub])
+- *911 Visualisations (Matplotlib, Seaborn):* Analysed 911 emergency calls data, displaying various visualisations (#link("https://github.com/ronellsalunke/emergency_hotline_visualizations")[GitHub])
+- *Invisibility Cloak (Python, OpenCV):* Masking cloak that uses the on-device webcam for live input (#link("https://github.com/ronellsalunke/invisibility-cloak")[GitHub])
+- *Golang Webserver (Go, HTML):* Simple HTTP server built with Go for serving static pages (#link("https://github.com/ronellsalunke/golang-webserver")[GitHub])
 
 
 == Publications
 - Prediction Model for Stock using Machine Learning Algorithm  (#link("https://ieeexplore.ieee.org/abstract/document/10270808")[Link])
 - CBF-NLP based Hybrid Model for Movie Recommendation System (#link("https://link.springer.com/chapter/10.1007/978-981-97-8096-9_21")[Link])
+- Machine Learning - Book Recommendation Using KNN
 
 == Certifications
 #certificates(
@@ -122,7 +122,22 @@
 
 #certificates(
   name: "Python3, C, C++ Trainings",
-  issuer: " Spoken Tutorial Project at IIT Bombay",
+  issuer: "Spoken Tutorial Project at IIT Bombay",
   date: "2019"
 )
+
+
+// == Events and Extracurricular
+// - Flutter Puzzle Hack participant (2022)
+// - Hacktoberfest participant (2018 - 2022)
+// - Co-head of the Training and Placement Cell at SICSR, Pune (2022 - 2023)
+// - Volunteer at FOSS United Mumbai Chapter (2024)
+
+
+// == Languages
+// - *English:* Native proficiency
+// - *Hindi: * Native proficiency
+
+
+
 
